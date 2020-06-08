@@ -1,0 +1,14 @@
+{
+  "name": "bitfreighter_windows_agent",
+  "version": "1.0.0",
+  "description": "Runs the Bitfreighter Agent as a Windows Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Joyce",
+  "license": "ISC",
+  "dependencies": {
+    "bitfreighter_agent": "0.0.1"
+  }
+}
