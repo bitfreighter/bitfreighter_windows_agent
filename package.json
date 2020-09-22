@@ -9,6 +9,6 @@
   "author": "Brandon Joyce",
   "license": "ISC",
   "dependencies": {
-    "bitfreighter_agent": "0.0.3"
+    "bitfreighter_agent": "0.1.0"
   }
 }
